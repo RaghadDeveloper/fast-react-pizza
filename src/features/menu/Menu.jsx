@@ -13,7 +13,6 @@ function Menu() {
           <MenuItem key={pizza.id} pizza={pizza} />
         ))}
       </ul>
-      ;
     </>
   );
 }
